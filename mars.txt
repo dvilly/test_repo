@@ -1,2 +1,8 @@
 Mars is a red planet.
+
 It is cold and dry, but everything is my favorite color.
+
+
+Gitkraken is being used as a GUI-based version control tool.
+
+Ooh, more information here.
