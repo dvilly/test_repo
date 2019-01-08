@@ -8,3 +8,5 @@ Gitkraken is being used as a GUI-based version control tool.
 Ooh, more information here.
 
 I'm adding the dta file now.
+
+Needed to make quick edits on website.
